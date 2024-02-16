@@ -13,7 +13,7 @@ GeoQuest позволит Вам познакомиться с новыми го
 Чтобы просмотреть проект Вы также можете воспользоваться окружением GitHub (gh-pages)  
 https://vagne0rlove9.github.io/HereQuest/
 
-Данный проект находится в стадии разработки.
+Данный проект разрабатывался в рамках "Хакатона МИЭТ 2020": https://www.miet.ru/page/129300.
 
 ![1](https://github.com/Wolfram18/HereQuest/blob/master/Media/1.jpg)
 ##
